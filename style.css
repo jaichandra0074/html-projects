@@ -1,0 +1,35 @@
+body{
+    font-family: Arial;
+    background-color: lightgray;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+    color: darkblue;
+}
+
+.welcome{
+    text-align: center;
+    font-size: 18px;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav a{
+    text-decoration: none;
+    margin: 10px;
+    color: blue;
+}
+
+img{
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.footer{
+    text-align: center;
+    font-weight: bold;
+}
